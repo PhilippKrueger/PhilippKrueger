@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on our inhouse image-processing tools.
+- 🌱 I’m currently learning as much as possible about computer vision and statistics.
+- 👯 I’m looking to collaborate on robotics and lab automation.
+
 <!--
 **PhilippKrueger/PhilippKrueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
